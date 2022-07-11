@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusXimeness&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusXimeness&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Technologies I use daily
 
 <div style="display: inline_block"><br/>
