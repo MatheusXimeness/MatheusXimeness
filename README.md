@@ -6,13 +6,13 @@
 ## Technologies I use daily
 
 <div style="display: inline_block"><br/>
-  # C++, JAVA, TypeScript, QtCreator, SpringBoot, Angular
+  <h3>C++, JAVA, TypeScript, QtCreator, SpringBoot, Angular</h3>
 </div>
 
 ## I'm currently learnig
 
 <div style="display: inline_block"><br/>
-  # Computer Vision
+  <h3>Computer Vision</h3>
 </div>
 
 ## I'm currently researching
