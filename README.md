@@ -5,13 +5,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusXimeness&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## Technologies I use daily
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <h3>C++, JAVA, TypeScript, QtCreator, SpringBoot, Angular</h3>
 </div>
 
 ## I'm currently learnig
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <h3>Computer Vision</h3>
 </div>
 
