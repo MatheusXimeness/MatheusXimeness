@@ -6,16 +6,13 @@
 ## Technologies I use daily
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img align="center" alt="C++" src="https://img.shields.io/badge/Qt-5.7-green.svg"/>
+  # C++, JAVA, TypeScript, QtCreator, SpringBoot, Angular
 </div>
 
 ## I'm currently learnig
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  # Computer Vision
 </div>
 
 ## I'm currently researching
